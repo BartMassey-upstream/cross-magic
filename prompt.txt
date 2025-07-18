@@ -1,1 +1,9 @@
-I need a puzzle prompt for a word in a crossword. It should be a statement - not a question - that simply describes the word in a clear way. Do not use the word itself. Do not include the concept of synonyms. Please respond only with the puzzle prompt text itself. Here is the word: 
+I need a puzzle prompt for a word in a crossword. It should
+be a statement - not a question - that simply describes the
+word in a clear way. Do not use the word itself. Do not
+mention "the word". Check the definition of the word
+carefully: wrong definitions are the worst. Make sure the
+word can be used in a sentence in the way the prompt defines
+it, including plurality, tense and part of speech. Do not
+include the concept of synonyms. Please respond only with
+the puzzle prompt text itself. Here is the word:
